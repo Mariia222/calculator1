@@ -1,5 +1,5 @@
 document.getElementById("operation_result").onclick = function () {
-    let a = document.getElementById("first1").value;
+    let a = document.getElementById("First1").value;
     let b = document.getElementById("second2").value;
     let c;
           if(document.getElementById("plus").checked) {
